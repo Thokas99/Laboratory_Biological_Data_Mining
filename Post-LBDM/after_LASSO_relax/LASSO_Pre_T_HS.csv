@@ -6,6 +6,7 @@
 "10","DPY19L2","ENSG00000177990","12","protein_coding","protein-coding","human-specific gene duplication","gene amplification","22"
 "11","EBF1","ENSG00000164330","5","protein_coding","protein-coding","human-specific derived allele","human-specific gene (undefined feature)","15"
 "12","FAM153A","ENSG00000170074","5","protein_coding","protein-coding","human-specific gene duplication","gene amplification","9,6"
+"13","FKBP9","ENSG00000122642","7","protein_coding","protein-coding","human-specific gene duplication","gene amplification","9"
 "14","FZD8","ENSG00000177283","10","protein_coding","protein-coding","flanking human accelerated region","regulatory region alteration","19,14,22"
 "15","GADD45G","ENSG00000130222","9","protein_coding","protein-coding","human-specific loss of enhancer","regulatory region alteration","19,16,27"
 "21","LCT","ENSG00000115850","2","protein_coding","protein-coding","increased positive selection","gene sequence alteration","21"
